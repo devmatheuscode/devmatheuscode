@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C896&height=200&section=header&text=Matheus%20Sousa%20Avelino&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Seguran%C3%A7a%20Cibern%C3%A9tica%20%7C%20Suporte%20%26%20Infraestrutura%20%7C%20Python&descAlignY=58&descAlign=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C896&height=200&section=header&text=Matheus%20Sousa%20Avelino&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Seguran%C3%A7a%20Cibern%C3%A9tica%20%7C%20Suporte%20e%20Infraestrutura%20%7C%20Python&descAlignY=58&descAlign=50"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C896&size=28&center=true&vCenter=true&width=1000&lines=🔐+Estudante+de+Segurança+Cibernética;🛠️+Suporte+%7C+Infraestrutura+%7C+Redes;🐍+Automação+com+Python+%7C+Flask;🕵️+Análise+de+Vulnerabilidades+%7C+Pentest;📍+São+Paulo,+SP+—+SENAI+São+Caetano+do+Sul;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -77,9 +77,9 @@ Scanner de portas TCP escrito do zero com a biblioteca `socket`, evoluindo em 3 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00C896)
-![Flask](https://img.shields.io/badge/-Flask-0D1117?style=flat-square&logo=flask&logoColor=00C896)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5&logoColor=00C896)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </div>
 
@@ -93,10 +93,10 @@ Scanner de portas TCP escrito do zero com a biblioteca `socket`, evoluindo em 3 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00C896)
-![Flask](https://img.shields.io/badge/-Flask-0D1117?style=flat-square&logo=flask&logoColor=00C896)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=00C896)
-![Llama](https://img.shields.io/badge/-Llama%203-0D1117?style=flat-square&logo=meta&logoColor=00C896)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Llama](https://img.shields.io/badge/-Llama%203-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 <!-- Troque o link abaixo pelo repositório do CYMAG quando ele estiver público -->
 <a href="https://github.com/devmatheuscode?tab=repositories"><img src="https://img.shields.io/badge/Ver%20repositórios-00C896?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -109,9 +109,9 @@ Scanner de portas TCP escrito do zero com a biblioteca `socket`, evoluindo em 3 
 
 <div align="center">
 
-![SENAI](https://img.shields.io/badge/SENAI-Certificado-00C896?style=for-the-badge&logo=bookstack&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Java%20Fundamentals-00A67E?style=for-the-badge&logo=oracle&logoColor=white)
-![Alura](https://img.shields.io/badge/Alura-Certificado-008F6B?style=for-the-badge&logo=academia&logoColor=white)
+![SENAI](https://img.shields.io/badge/SENAI-Certificado-E30613?style=for-the-badge&logo=bookstack&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Java%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Alura](https://img.shields.io/badge/Alura-Certificado-051933?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
@@ -132,28 +132,28 @@ Scanner de portas TCP escrito do zero com a biblioteca `socket`, evoluindo em 3 
 ### Linguagens & Frameworks
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00C896&labelColor=0D1117)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00C896&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00C896&labelColor=0D1117)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-0D1117?style=for-the-badge&logo=json&logoColor=00C896&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 
 </div>
 
 ### Segurança, Redes & Sistemas
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00C896&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00C896&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00C896&labelColor=0D1117)&nbsp;
-![Networking](https://img.shields.io/badge/-Redes-0D1117?style=for-the-badge&logo=cisco&logoColor=00C896&labelColor=0D1117)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Networking](https://img.shields.io/badge/-Redes-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
 
 </div>
 
 ### Ferramentas
 <div align="center">
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00C896&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C896&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 </div>
 
